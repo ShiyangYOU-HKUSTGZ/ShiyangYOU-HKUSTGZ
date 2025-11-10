@@ -2,8 +2,8 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);米奇妙妙屋&center=true&size=27" />
+    <a>
+      <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);米奇妙妙屋！！！&center=true&size=27"> </a> </h1>
     </a>
   </div>
 </div>
