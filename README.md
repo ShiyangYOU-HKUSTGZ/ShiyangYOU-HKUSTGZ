@@ -49,29 +49,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
-<a href="https://github.com/yxn4065"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
-<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
-<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
-<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
-</p>
-
-
---
-
-
-**🐱 My GitHub Data** 
-
-> 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -124,14 +101,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 ```
 
 
-
-
- Last Updated on 01/06/2025 18:43:26 UTC
-<!--END_SECTION:waka-->
-
-<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
-
----
 
 ### Future
 早睡晚起摸大鱼
