@@ -28,22 +28,12 @@ Here are some ideas to get you started:
   <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 </a>
 
-### Hello World!  I am <b>Xenon<a target="_blank" href="javascript:;"></a></b>
+### Hello World!  I am <b>Shay YOU<a target="_blank" href="javascript:;"></a></b>
 
 
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: Highlights of my successful endeavors.
-
-<a href="https://autofelix.blog.csdn.net">
-    <img src="https://img.shields.io/badge/CSDN Page View-125K-E65A65.svg" alt="" title="Python_AI的csdn" />
-</a>
-<a href="https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b"><img src="https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg" alt="Total time coded since Jan 4 2021" /></a>
+- :hearts: Passionate about AI4S. 
 <br/>
 <br/>
-<br/>
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)th visitor
 
 
 ---
